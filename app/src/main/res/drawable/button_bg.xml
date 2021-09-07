@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android">
+    <shape xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/button">
+        <gradient android:endColor="#ffc857"
+            android:centerColor="#fcb129"
+            android:startColor="fe7883d"
+            android:angle="45"/>
+    </shape>
+
+</inset>
